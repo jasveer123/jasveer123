@@ -1,8 +1,8 @@
 ### Hi there, I'm Jasveer singh 👋
 
-## I'm a electronics Engineer and a Software developer !!
+## I'm a electronics Engineer and a Software developer worked at celebal tech. !!
 
-- 🔭 I Just completed by graduation in Electronics domain !!
+- 🔭 I Just completed by graduation in Electronics domain !! and worked with celebal technologies.
 - 🌱 I’m very interested toward software development!!
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love cooking and video games / like chess and badmintion 
