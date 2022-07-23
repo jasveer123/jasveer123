@@ -1,6 +1,6 @@
 ### Hi there, I'm Jasveer singh 👋
 
-## I'm a electronics Engineer and a Software developer worked at celebal tech. !!
+## I'm a electronics Engineer and a Software developer
 
 - 🔭 Software engineer at Hashtrust.in , ex-intern at celebal tech.
 - 🌱 I’m very interested toward software development!!
