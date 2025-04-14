@@ -78,10 +78,3 @@ I'm a Software Engineer with 3+ years of experience in building high-performance
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:jasveer3101998@gmail.com)
 
 ---
-
-### 📊 GitHub Stats
-
-![Jasveer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jasveer123&show_icons=true&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jasveer123&theme=tokyonight)
-
----
