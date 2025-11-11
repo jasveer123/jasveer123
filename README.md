@@ -1,17 +1,20 @@
 ### Hi there, I'm Jasveer Singh 👋
 
-## Software Engineer | Frontend-Heavy Full Stack Developer | Web3 & AI Enthusiast
+## Frontend-Heavy Full Stack Engineer | Web3 & AI Enthusiast | 4+ Years Experience
 
-I'm a Software Engineer with 4 years of experience in building high-performance, frontend-focused web applications using modern JavaScript frameworks. I currently work at [Hashtrust Technologies](https://hashtrust.in), where I build robust products for clients across domains like AI, Blockchain, and Fintech.
+I’m a Software Engineer with 4 years of experience building scalable, high-performance web applications that blend great UX with strong backend architectures.  
+Currently, I work as a **Frontend Engineer at [Jasper Colin Research](https://jaspercolin.com/)**, and previously contributed at **[Hashtrust Technologies](https://hashtrust.in)** and **[Celebal Technologies](https://celebaltech.com)** — creating impactful solutions in **AI, Blockchain, and SaaS** domains.
 
 ---
 
 ### 🔧 Core Expertise
 
-- **Frontend Engineering:** React.js, Next.js, Tailwind CSS, ShadCN, Framer Motion, Nextra
-- **Backend Development:** FastAPI, Node.js, Express.js, PostgreSQL, MongoDB
-- **Blockchain Integration:** MetaMask, TronLink, Trust Wallet, Web3.js, Staking Systems
-- **Tooling & DevOps:** Git, Docker, CI/CD, GitHub Actions
+- **Frontend:** Next.js, React.js, Tailwind CSS, ShadCN, Framer Motion, Nextra, Redux Toolkit, TanStack Query  
+- **Backend:** FastAPI, Node.js, Express.js  
+- **Databases:** PostgreSQL, MongoDB  
+- **DevOps & Tools:** Git, Docker, CI/CD, AWS, GitHub Actions, OTEL (Grafana, Jaeger)  
+- **Blockchain:** MetaMask, TronLink, Trust Wallet, Web3.js, Staking Systems
+- **security:** OWASP, SonarQube
 
 ---
 
