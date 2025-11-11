@@ -2,7 +2,7 @@
 
 ## Software Engineer | Frontend-Heavy Full Stack Developer | Web3 & AI Enthusiast
 
-I'm a Software Engineer with 3+ years of experience in building high-performance, frontend-focused web applications using modern JavaScript frameworks. I currently work at [Hashtrust Technologies](https://hashtrust.in), where I build robust products for clients across domains like AI, Blockchain, and Fintech.
+I'm a Software Engineer with 4 years of experience in building high-performance, frontend-focused web applications using modern JavaScript frameworks. I currently work at [Hashtrust Technologies](https://hashtrust.in), where I build robust products for clients across domains like AI, Blockchain, and Fintech.
 
 ---
 
