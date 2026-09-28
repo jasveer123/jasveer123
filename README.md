@@ -3,7 +3,7 @@
 ## Full Stack Engineer | Web3 & AI Enthusiast | 4+ Years Experience
 
 I’m a Software Engineer with 4 years of experience building scalable, high-performance web applications that blend great UX with strong backend architectures.  
-Currently, I work as a **Frontend Engineer at [Jasper Colin Research](https://jaspercolin.com/)**, and previously contributed at **[Hashtrust Technologies](https://hashtrust.in)** and **[Celebal Technologies](https://celebaltech.com)** — creating impactful solutions in **AI, Blockchain, and SaaS** domains.
+Currently, I work as a **Software Engineer at [Jasper Colin Research](https://jaspercolin.com/)**, and previously contributed at **[Hashtrust Technologies](https://hashtrust.in)** and **[Celebal Technologies](https://celebaltech.com)** — creating impactful solutions in **AI, Blockchain, and SaaS** domains.
 
 ---
 
